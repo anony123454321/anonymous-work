@@ -1,1 +1,1 @@
-Results of DreamInsert on I2V Insertion Dataset.
+GIF Results of DreamInsert on I2V Insertion Dataset.
