@@ -1,6 +1,7 @@
 # GIF Results of DreamInsert on I2V Insertion Dataset.
 
-Visual comparison results on the I2V Insertion Dataset, comparing AnyV2V, CCEdit, TF-ICON, MVOC, and DreamInsert with two different settings, Double Inversion (Dou. Inv.) and Pixel Noise Injection (PN-Inj.).
+Visual comparison results on the I2V Insertion Dataset, comparing AnyV2V, CCEdit, TF-ICON, MVOC, and DreamInsert with two different settings, Double Inversion (Dou. Inv.) and Pixel Noise Injection (PN-Inj.). The I2V Insertion Dataset contains 7 videos-image pairs, which covers a variety of scenes, from indoor to outdoor, showcasing the diversity of the selected cases.
+
 
 
 ### Coffee Bird:
