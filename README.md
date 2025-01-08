@@ -12,7 +12,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
@@ -25,7 +25,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
@@ -37,7 +37,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
@@ -49,7 +49,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
@@ -61,7 +61,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
@@ -73,7 +73,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
@@ -85,6 +85,6 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                  **DreamInsert-Dou-Inv.**,                **DreamInsert-PN-Inj.**
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
