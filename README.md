@@ -8,7 +8,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/AnyV2V.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/CCEdit.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/TF-ICON.gif" width="250px"/>
 
-                 AnyV2V,                         CCEdit,                         TF-ICON,
+                 __AnyV2V__,                         CCEdit,                         TF-ICON,
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-PN-Inj.gif" width="250px"/>
 
