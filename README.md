@@ -9,7 +9,7 @@ Cabin Dog:
 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-PN-Inj.gif" width="250px"/>
 
-                 MVOC,                         DreamInsert-Dou-Inv.,                        DreamInsert-PN-Inj.
+                 MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.
 
 
 
