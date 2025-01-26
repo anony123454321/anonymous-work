@@ -13,12 +13,12 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 
                        
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/bird1.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/bird1.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-Dou-Inv.gif" width="250px"/>
 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                         MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj. 
+            Object Image                         MVOC,                  DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv. 
 
 
  
@@ -28,13 +28,12 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-            Background Video                           A                                B                               C
+            Background Video                     AnyV2V,                         CCEdit,                         TF-ICON,
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/gb2(1).png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-PN-Inj.gif" width="250px"/>
-
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/gb2(1).png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-Dou-Inv.gif" width="250px"/>
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                          D                               E                                 F 
+            Object Image                  MVOC,                  DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv.
 
 
 
@@ -44,13 +43,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-            Background Video                           A                                B                               C
+            Background Video                         AnyV2V,                         CCEdit,                         TF-ICON,
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/square_man_2.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/square_man_2.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-Dou-Inv.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                          D                               E                                 F 
+            Object Image                   MVOC,                 DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv.
 
 
 
@@ -61,13 +60,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-            Background Video                           A                                B                               C
+            Background Video                      AnyV2V,                         CCEdit,                         TF-ICON,
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/horse.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/horse.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/forest_horse/DreamInsert-Dou-Inv.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                          D                               E                                 F 
+            Object Image                          MVOC,                 DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv.
 
 
 
@@ -78,13 +77,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-            Background Video                           A                                B                               C
+            Background Video                         AnyV2V,                         CCEdit,                         TF-ICON,
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/28.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/28.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/hill_horse/DreamInsert-Dou-Inv.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                          D                               E                                 F 
+            Object Image                    MVOC,                  DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv.
 
 
 
@@ -95,13 +94,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-            Background Video                           A                                B                               C
+            Background Video                      AnyV2V,                         CCEdit,                         TF-ICON,
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/man_square_1.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/man_square_1.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-Dou-Inv.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                          D                               E                                 F 
+            Object Image                       MVOC,                 DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv.
 
 
 
@@ -112,13 +111,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-            Background Video                           A                                B                               C
+            Background Video                     AnyV2V,                         CCEdit,                         TF-ICON,
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/cat_square.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/cat_square.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-Dou-Inv.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                          D                               E                                 F 
+            Object Image                   MVOC,                 DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv.
 
 
 
