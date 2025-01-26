@@ -46,7 +46,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 <!--                        A                                B                               C-->
             Background Video                           A                                B                               C
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/man.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/square_man_2.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/crossing_man/DreamInsert-PN-Inj.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
@@ -91,13 +91,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 ### Lib Batman:
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/lib-batman.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/AnyV2V.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/CCEdit.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/TF-ICON.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/man_square_1.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/AnyV2V.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/CCEdit.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/TF-ICON.gif" width="250px"/>
 
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
             Background Video                           A                                B                               C
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/batman3.png" height="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/batman3.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/lib-batman/DreamInsert-PN-Inj.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
@@ -114,7 +114,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 <!--                        A                                B                               C-->
             Background Video                           A                                B                               C
 
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/cat_walking2.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-PN-Inj.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/cat_square.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-Dou-Inv.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/winter_cat/DreamInsert-PN-Inj.gif" width="250px"/>
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
