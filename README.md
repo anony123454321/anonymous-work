@@ -18,7 +18,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,               DreamInsert-PN-Inj.,         DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
 <!--        Background Video               AnyV2V,                   CCEdit,                   TF-ICON,-->
 
  
