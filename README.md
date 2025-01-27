@@ -1,6 +1,6 @@
 # Visual Results of DreamInsert on I2V Insertion Dataset.
 
-Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, CCEdit, TF-ICON, and MVOC with **DreamInsert** in two different settings, _Double Inversion_ (Dou. Inv.) and _Pixel Noise Injection_ (PN-Inj.). The I2V Insertion Dataset contains 7 videos-image pairs, which covers a variety of scenes, from indoor to outdoor, showcasing the diversity of the selected cases.
+Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, CCEdit, TF-ICON, and MVOC with **DreamInsert** in two different settings, _Double Inversion_ (D-Inv.) and _Pixel Noise Injection_ (PN-Inj.). The I2V Insertion Dataset contains 7 videos-image pairs, which covers a variety of scenes, from indoor to outdoor, showcasing the diversity of the selected cases.
 
 
 
@@ -18,7 +18,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 <!--        Background Video               AnyV2V,                   CCEdit,                   TF-ICON,-->
 
  
@@ -33,7 +33,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/gb2(1).png" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/MVOC.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-PN-Inj.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/cabin_dog/DreamInsert-Dou-Inv.gif" width="200px"/>
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 
 
 
@@ -49,7 +49,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 
 
 
@@ -66,7 +66,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 
 
 
@@ -83,7 +83,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 
 
 
@@ -100,7 +100,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 
 
 
@@ -117,7 +117,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-Dou-Inv. 
+          Object Image                 MVOC,              DreamInsert-PN-Inj.,        DreamInsert-D-Inv. 
 
 
 
