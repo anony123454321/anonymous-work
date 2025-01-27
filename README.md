@@ -13,13 +13,13 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 
 
                        
-<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/bird1.png" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/MVOC.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-PN-Inj.gif" width="250px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-Dou-Inv.gif" width="250px"/>
+<img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/bird1.png" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/MVOC.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-PN-Inj.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/DreamInsert-Dou-Inv.gif" width="200px"/>
 
 
 <!--                  MVOC,                  DreamInsert-Dou-Inv.,                DreamInsert-PN-Inj.-->
 <!--                       D                               E                                 F -->
-            Object Image                         MVOC,                  DreamInsert-PN-Inj.,                DreamInsert-Dou-Inv. 
-
+          Object Image                 MVOC,               DreamInsert-PN-Inj.,         DreamInsert-Dou-Inv. 
+<!--        Background Video               AnyV2V,                   CCEdit,                   TF-ICON,-->
 
  
 ### Cabin Dog:
