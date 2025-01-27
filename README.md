@@ -9,7 +9,7 @@ Visual comparison results (GIF) on the I2V Insertion Dataset, comparing AnyV2V, 
 <img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/coffee_bird.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/AnyV2V.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/CCEdit.gif" width="200px"/><img src="https://github.com/anony123454321/anonymous-work/blob/main/assets/coffee_bird/TF-ICON.gif" width="200px"/>
 <!--                  AnyV2V,                         CCEdit,                         TF-ICON,-->
 <!--                        A                                B                               C-->
-    Background Video             AnyV2V,                CCEdit,                TF-ICON,
+        Background Video                 AnyV2V,                   CCEdit,                  TF-ICON,
 
 
                        
